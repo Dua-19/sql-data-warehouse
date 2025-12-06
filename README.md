@@ -11,7 +11,7 @@ This project demonstrates how to transform raw operational data into a clean, st
 
 # Architecture
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](documents/data_architecture.png)
 **Bronze — Raw Layer**
 
 
